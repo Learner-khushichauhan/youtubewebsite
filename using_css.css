@@ -1,0 +1,139 @@
+*{
+    font-family: cursive;
+}
+
+.navbar{
+    background-color: #1b8989;
+    padding: 15px;
+    
+
+}
+nav a:hover{
+    text-decoration: underline;
+}
+nav a:active{
+    text-decoration: underline;
+}
+a{
+    color:white;
+    margin-left:15px;
+    text-decoration: none;
+}
+.float-right{
+    float:right;
+}
+.btn{
+    padding: 3px 10px 5px 10px;
+    border-radius: 5%;
+}
+.btn-primary{
+    background-color: rbg(45,97,218);
+}
+.btn-warning{
+    background-color: rgb(246,246,16);
+    color:rgb(18, 17, 17);
+}
+body{
+    margin: 0;
+}
+.mt-1px{
+    margin-top:5px;
+    height: 50%;
+    width: 100%;
+    
+}
+.row{
+    display:flex;
+    padding-left:10px;
+    padding-right:10px;
+}
+.col-2{
+    width:60%;
+}
+.col-3{
+    width:33.33%;
+}
+.col-4{
+    width:25%;
+    background-color:aliceblue;
+}
+.mt-10px{
+    margin-top:10px;
+}
+.card{
+    border:1px solid rgb(202,198, 198);
+    padding:10px;
+}
+.text-center{
+    text-align:center;
+}
+.img-responsive{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+.card-img{
+    height: 100px;
+    width:100px;
+    margin: auto;
+}
+.card{
+    text-align:center;
+}
+.card a{
+    color: cadetblue;
+}
+.card p{
+    color: gray;
+}
+.text-primary{
+    color: rgb(6, 6, 106);
+}
+.text-white{
+    color: white;
+}
+.text-justify{
+    text-align: justify;
+}
+.footer{
+    background-color: cadetblue;
+    padding: 5px;
+}
+.p-4{
+    padding:25px;
+}
+.p-5{
+    padding:30px;
+    background-color: rgb(174, 174, 21);
+    color:white;
+}
+.p-1{
+    padding: 10px;
+    
+}
+.login{
+    margin:20px 20px 20px 250px ;
+    width:600px; 
+    padding :20px ;
+    height:250px;
+    border: 2px solid gray;
+    
+    background-color: aliceblue;
+}
+.h1{
+    text-decoration: underline;
+}
+
+.border{
+    border: 2px solid gray;
+    margin: 5px;
+    background-color: aliceblue;
+}
+input,select{
+    width: 250px;
+    height: 25px;
+}
+.m-3{
+    margin: 20px;
+}
